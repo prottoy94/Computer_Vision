@@ -1,0 +1,2 @@
+python -m venv tf_env
+tf_env\Scripts\Activate.ps1
