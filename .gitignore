@@ -15,8 +15,9 @@ venv/
 env/
 ENV/
 tf_env/
+tfenv/
 Image Classification/tf_env/
-
+        s
 # Data folders - IGNORE ALL IMAGES
 Image Classification/flower_photos/
 *.jpg
