@@ -17,7 +17,7 @@ ENV/
 tf_env/
 tfenv/
 Image Classification/tf_env/
-        s
+        
 # Data folders - IGNORE ALL IMAGES
 Image Classification/flower_photos/
 *.jpg
@@ -38,4 +38,7 @@ Image Classification/flower_photos/
 
 # Text files
 *.txt
+
+# Lecture websites folder
+Comuter Vision Lecture websites/
 EOF
