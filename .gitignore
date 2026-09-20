@@ -42,3 +42,4 @@ Image Classification/flower_photos/
 # Lecture websites folder
 Comuter Vision Lecture websites/
 EOF*.keras
+*.keras
