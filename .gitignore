@@ -27,6 +27,14 @@ Image Classification/flower_photos/
 *.bmp
 *.tiff
 
+# Generated motion-detection output and video files
+motion_images/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
 # IDE files
 .vscode/
 .idea/
